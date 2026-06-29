@@ -1,0 +1,22 @@
+{
+  "name": "assignment_mode",
+  "description": "Open tools for working on assignments.",
+  "steps": [
+    {
+      "action": "speak",
+      "value": "Activating assignment mode."
+    },
+    {
+      "action": "open_app",
+      "value": "chrome"
+    },
+    {
+      "action": "open_app",
+      "value": "vscode"
+    },
+    {
+      "action": "open_folder",
+      "value": "C:\\Users\\Public\\Documents"
+    }
+  ]
+}

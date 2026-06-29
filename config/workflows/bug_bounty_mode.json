@@ -1,0 +1,26 @@
+{
+  "name": "bug_bounty_mode",
+  "description": "Open tools for bug bounty hunting.",
+  "steps": [
+    {
+      "action": "speak",
+      "value": "Activating bug bounty mode."
+    },
+    {
+      "action": "open_app",
+      "value": "chrome"
+    },
+    {
+      "action": "open_random_url",
+      "value": "https://hackerone.com,https://bugcrowd.com,https://www.intigriti.com"
+    },
+    {
+      "action": "open_app",
+      "value": "vscode"
+    },
+    {
+      "action": "open_app",
+      "value": "notepad"
+    }
+  ]
+}

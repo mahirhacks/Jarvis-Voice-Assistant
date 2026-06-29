@@ -1,0 +1,18 @@
+{
+  "name": "study_mode",
+  "description": "Open study tools.",
+  "steps": [
+    {
+      "action": "speak",
+      "value": "Activating study mode."
+    },
+    {
+      "action": "open_app",
+      "value": "chrome"
+    },
+    {
+      "action": "open_app",
+      "value": "vscode"
+    }
+  ]
+}

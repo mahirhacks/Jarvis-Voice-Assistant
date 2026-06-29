@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Testing / tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.tox/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Local / secrets — never commit
+.env
+.env.*
+*.pem
+secrets/
+config/settings.local.json
+
+# Runtime caches (rebuilt on use)
+config/music_entity_cache.json
+config/music_corrections_cache.json
+scripts/stress_report.json
+
+# Logs and temp
+data/logs/*
+data/temp/*
+!data/logs/.gitkeep
+!data/temp/.gitkeep
+
+# Model / browser downloads (large, machine-specific)
+models/
+.openwakeword/
+playwright-report/
+test-results/
+
+# Whisper / Hugging Face cache (optional local override)
+.cache/

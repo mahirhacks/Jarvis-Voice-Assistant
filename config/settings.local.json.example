@@ -1,0 +1,7 @@
+{
+  "_comment": "Copy to config/settings.local.json (gitignored) for machine-specific overrides.",
+  "wake_microphone_device_id": 0,
+  "command_microphone_device_id": 0,
+  "stt_device_preference": "cuda",
+  "tts_voice": "am_michael"
+}

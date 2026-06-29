@@ -1,0 +1,14 @@
+{
+  "name": "shutdown",
+  "description": "Shut down the laptop safely.",
+  "steps": [
+    {
+      "action": "speak",
+      "value": "Shutting down the laptop now."
+    },
+    {
+      "action": "shutdown",
+      "value": null
+    }
+  ]
+}

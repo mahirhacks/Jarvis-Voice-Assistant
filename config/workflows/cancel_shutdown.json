@@ -1,0 +1,14 @@
+{
+  "name": "cancel_shutdown",
+  "description": "Cancel a pending shutdown or restart.",
+  "steps": [
+    {
+      "action": "speak",
+      "value": "Cancelling the shutdown."
+    },
+    {
+      "action": "cancel_shutdown",
+      "value": null
+    }
+  ]
+}

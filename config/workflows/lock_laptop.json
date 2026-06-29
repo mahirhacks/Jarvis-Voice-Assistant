@@ -1,0 +1,14 @@
+{
+  "name": "lock_laptop",
+  "description": "Lock the Windows workstation.",
+  "steps": [
+    {
+      "action": "speak",
+      "value": "Locking the laptop now."
+    },
+    {
+      "action": "lock",
+      "value": null
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "chrome": {
+    "name": "Google Chrome",
+    "command": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+  },
+  "edge": {
+    "name": "Microsoft Edge",
+    "command": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+  },
+  "opera gx": {
+    "name": "Opera GX",
+    "command": "%LOCALAPPDATA%\\Programs\\Opera GX\\opera.exe"
+  },
+  "vscode": {
+    "name": "Visual Studio Code",
+    "command": "code"
+  },
+  "kiro": {
+    "name": "Kiro IDE",
+    "command": "kiro"
+  },
+  "notepad": {
+    "name": "Notepad",
+    "command": "notepad"
+  },
+  "task_manager": {
+    "name": "Task Manager",
+    "command": "taskmgr"
+  },
+  "explorer": {
+    "name": "File Explorer",
+    "command": "explorer"
+  },
+  "settings": {
+    "name": "Windows Settings",
+    "command": "start ms-settings:"
+  },
+  "calculator": {
+    "name": "Calculator",
+    "command": "calc"
+  },
+  "cmd": {
+    "name": "Command Prompt",
+    "command": "cmd"
+  },
+  "powershell": {
+    "name": "PowerShell",
+    "command": "powershell"
+  },
+  "control_panel": {
+    "name": "Control Panel",
+    "command": "control"
+  },
+  "device_manager": {
+    "name": "Device Manager",
+    "command": "devmgmt.msc"
+  },
+  "paint": {
+    "name": "Paint",
+    "command": "mspaint"
+  },
+  "snipping_tool": {
+    "name": "Snipping Tool",
+    "command": "snippingtool"
+  },
+  "disk_cleanup": {
+    "name": "Disk Cleanup",
+    "command": "cleanmgr"
+  },
+  "resource_monitor": {
+    "name": "Resource Monitor",
+    "command": "resmon"
+  }
+}

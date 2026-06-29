@@ -1,0 +1,14 @@
+{
+  "name": "play_music",
+  "description": "Open YouTube and play relaxing music.",
+  "steps": [
+    {
+      "action": "speak",
+      "value": "Playing something nice."
+    },
+    {
+      "action": "open_url",
+      "value": "https://www.youtube.com/watch?v=jfKfPfyJRdk"
+    }
+  ]
+}
