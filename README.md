@@ -1,4 +1,4 @@
-# Jarvis 3.0
+# Jarvis voice assistant
 
 Hands-free, voice-only local assistant for Windows. Wake word → speech-to-text → layered intent routing → tool execution → TTS. Uses [Ollama](https://ollama.com) (`qwen3.5:4b`) for ambiguous commands; most everyday phrases route instantly without the LLM.
 
